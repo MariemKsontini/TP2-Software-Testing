@@ -3,9 +3,9 @@
 Ce dépôt contient les scripts de test créés pour automatiser le test de divers sites web en utilisant Selenium IDE. Les tests couvrent différentes fonctionnalités et sont organisés de manière logique pour une meilleure gestion.
 
 ## Contenu du dépôt
-Tous les scripts de test. Chaque exercice est documenté dans un fichier séparé.
-README.md : Ce fichier, décrivant le contenu du dépôt.
-CompteRendu_TP2_Tests_Logiciels.pdf : Rapport détaillé du travail réalisé pour le TP2.
+1. Tous les scripts de test. Chaque exercice est documenté dans un fichier séparé.
+2. CompteRendu_TP2_Tests_Logiciels.pdf : Rapport détaillé du travail réalisé pour le TP2.
+3. README.md : Ce fichier, décrivant le contenu du dépôt.
 
 ## Exigences
 
